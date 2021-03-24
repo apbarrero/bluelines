@@ -1,4 +1,4 @@
-![screenshot](http://i61.tinypic.com/10zviav.png)
+![Screenshot 2021-03-24 at 17 02 04](https://user-images.githubusercontent.com/1088202/112342686-b9949a80-8cc2-11eb-8627-59df36d99b44.png)
 
 bluelines
 =========
